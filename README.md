@@ -8,12 +8,18 @@ Feel free to make pull requests and solve them in ruby, javascript, or a languag
 TDD is encouraged.
 
 Palantir Suggested Algorithms:
-Sorting (plus searching / binary search)
-Divide-and-conquer
-Dynamic programming / memoization
-Greediness
-Recursion
-Algorithms associated with a specific data structure (which brings us to our fourth suggestion…)
+-Sorting (plus searching / binary search)
+-Divide-and-conquer
+-Dynamic programming / memoization
+-Greediness
+-Recursion
+-Algorithms associated with a specific data structure (which brings us to our fourth suggestion…)
+-Array
+-Stack / Queue
+-Hashset / Hashmap / Hashtable / Dictionary
+-Tree / binary tree
+-Heap
+-Graph
 
 Some Suggestions
 [link for more details](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
