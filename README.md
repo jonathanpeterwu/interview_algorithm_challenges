@@ -1,4 +1,4 @@
-interview_algorithm_challenges
+Interview Algorithm Challenges
 ==============================
 
 Aggregating an open source repo to solving a list of top algorithm challenges.
